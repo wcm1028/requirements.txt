@@ -1,0 +1,5 @@
+ccxt
+pandas
+finta
+requests
+scikit-learn
